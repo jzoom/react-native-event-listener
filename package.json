@@ -1,6 +1,6 @@
 {
   "name": "react-native-event-listener",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An easy way to listen DeviceEventEmitter",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "author": "Randy Allen <jzoom8112@gmail.com> (http://blog.example.com)",
   "license": "ISC",
   "dependencies": {
-    "prop-types": "^15.6.2",
-    "react-native": "^0.57.1"
+    "prop-types": "^15.6.0",
+    "react-native": "^0.56.0"
   },
   "devDependencies": {
     "jest": "^23.6.0"
