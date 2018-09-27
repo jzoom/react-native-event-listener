@@ -1,4 +1,5 @@
 # react-native-event-listener
+作用：对DeviceEventEmitter进行二次封装，省掉`DeviceEventEmitter.addListener`和`remove`的步骤
 
 使用方法:
 ```
